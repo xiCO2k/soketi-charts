@@ -173,6 +173,16 @@ entries:
     version: 0.1.0
   pws:
   - apiVersion: v2
+    appVersion: 0.6.5
+    created: "2021-09-26T02:31:30.966164669Z"
+    description: Run soketi/pws in Kubernetes using this Helm chart.
+    digest: c7c86507132ce7e5c6fbc1059e7973411172771ef9f00e66fb849fc95094f29f
+    name: pws
+    type: application
+    urls:
+    - https://github.com/xiCO2k/soketi-charts/releases/download/pws-2.2.5/pws-2.2.5.tgz
+    version: 2.2.5
+  - apiVersion: v2
     appVersion: 0.6.4
     created: "2021-09-26T01:37:52.79234554Z"
     description: Run soketi/pws in Kubernetes using this Helm chart.
@@ -252,4 +262,4 @@ entries:
     urls:
     - https://github.com/soketi/charts/releases/download/pws-0.1.0/pws-0.1.0.tgz
     version: 0.1.0
-generated: "2021-09-26T01:37:52.792459341Z"
+generated: "2021-09-26T02:31:30.966481068Z"
